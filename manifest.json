@@ -2,7 +2,7 @@
     "dir": "ltr",
     "lang": "Portuguese",
     "name": "SysAvaliation 1.0",
-    "scope": "https://github.com/roototalio/",
+    "scope": "https://roototalio.github.io/manifest.json",
     "display": "fullscreen",
     "start_url": "https://roototalio.github.io/agenda",
     "short_name": "SysAvaliation",

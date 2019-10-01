@@ -2,7 +2,7 @@
     "dir": "ltr",
     "lang": "Portuguese",
     "name": "SysAvaliation 1.0",
-    "scope": "./",
+    "scope": "/agenda/manifest.json",
     "display": "fullscreen",
     "start_url": "http://agendatoca123.atwebpages.com",
     "short_name": "SysAvaliation",
